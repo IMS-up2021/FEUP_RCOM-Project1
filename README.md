@@ -1,5 +1,4 @@
-INSTRUCTIONS FOR SERIAL PORT PROTOCOL
-=====================================
+# INSTRUCTIONS FOR SERIAL PORT PROTOCOL
 
 This folder contains the base code of the serial port protocol.
 
